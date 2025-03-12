@@ -13,3 +13,6 @@ Order List:
 
 Order Detail:
 ![padre-ginnos-order-detail](https://github.com/user-attachments/assets/a62cc1bd-0031-4bc2-9aeb-7b5537a1e5eb)
+
+Error Page:
+![padre-ginnos-error-page](https://github.com/user-attachments/assets/0c7826d9-baff-4235-b658-d14fd53fbe8a)
