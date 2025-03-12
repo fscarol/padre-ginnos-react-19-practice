@@ -16,3 +16,7 @@ Order Detail:
 
 Error Page:
 ![padre-ginnos-error-page](https://github.com/user-attachments/assets/0c7826d9-baff-4235-b658-d14fd53fbe8a)
+
+Contact Page:
+![padre-ginnos-contact-page](https://github.com/user-attachments/assets/e501de2c-0660-43be-ad3b-0eaaadf75292)
+![padre-ginnos-contact-page-submitted](https://github.com/user-attachments/assets/c1724a8b-2db0-41e9-b6fd-8f481ee17c9d)
