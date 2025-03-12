@@ -25,4 +25,7 @@ export default defineConfig({
     //     exclude: ['@tanstack/react-router'],
     // },
     plugins: [TanStackRouterVite(), react()],
+    test: {
+        environment: "happy-dom"
+    }
 });
